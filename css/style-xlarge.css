@@ -1,0 +1,46 @@
+/*
+    Strata by HTML5 UP
+    html5up.net | @n33co
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+    Modified by LionNet, lion.net.pl
+*/
+
+/* Basic */
+
+body, input, select, textarea {
+    font-size: 12pt;
+}
+
+/* LionNet */
+
+#nav-news,
+#nav-offer,
+#nav-partners,
+#nav-workshops,
+#nav-pricing,
+#nav-courses,
+#nav-contact {
+    background-repeat: no-repeat;
+}
+#nav-news {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/medium/2580.jpg');
+}
+#nav-offer {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/medium/2607.jpg');
+}
+#nav-partners {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/medium/2639.jpg');
+}
+#nav-workshops {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/medium/2746.jpg');
+}
+#nav-pricing {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/medium/2829.jpg');
+}
+#nav-courses {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/medium/2880.jpg');
+}
+#nav-contact {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/medium/2771.jpg');
+}

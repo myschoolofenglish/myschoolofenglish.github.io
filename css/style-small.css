@@ -1,0 +1,112 @@
+/*
+    Strata by HTML5 UP
+    html5up.net | @n33co
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+    Modified by LionNet, lion.net.pl
+*/
+
+/* Basic */
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+/* Section/Article */
+
+section.special, article.special {
+    text-align: center;
+}
+
+header.major h2 {
+    font-size: 1.35em;
+}
+
+/* List */
+
+ul.labeled-icons li {
+    padding-left: 2em;
+}
+
+ul.labeled-icons li h3 {
+    line-height: 1.75em;
+}
+
+/* Header */
+
+#header {
+    padding: 2.25em 1.5em;
+}
+
+#header h1 {
+    font-size: 1.35em;
+}
+
+/* Footer */
+
+#footer {
+    padding: 2.25em 1.5em;
+}
+
+/* Main */
+
+#main {
+    padding: 2.25em 1.5em 0.25em 1.5em;
+}
+
+#main > section {
+    margin: 2.25em 0 0 0;
+    padding: 2.25em 0 0 0;
+}
+
+/* Poptrox */
+
+.poptrox-popup {
+    border-radius: 0;
+}
+
+.poptrox-popup .nav-next:before,
+.poptrox-popup .nav-previous:before {
+    margin-top: -1em;
+}
+
+/* LionNet */
+
+#nav-news,
+#nav-offer,
+#nav-partners,
+#nav-workshops,
+#nav-pricing,
+#nav-courses,
+#nav-contact {
+    background-repeat: no-repeat;
+}
+#nav-news {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2580.jpg');
+}
+#nav-offer {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2607.jpg');
+}
+#nav-partners {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2639.jpg');
+}
+#nav-workshops {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2746.jpg');
+}
+#nav-pricing {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2829.jpg');
+}
+#nav-courses {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2880.jpg');
+}
+#nav-contact {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2771.jpg');
+}

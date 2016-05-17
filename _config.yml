@@ -1,0 +1,12 @@
+title: My school Of English - Szkoła języka angielskiego w Bytomiu
+email: kontakt@myschoolofenglish.pl
+
+description: Szkoła języka angielskiego w Bytomiu. Zajęcia indywidualne i grupowe. Zajęcia z dziećmi. Business English.
+keywords: szkoła języka angielskiego, korepetycje, angielski z dziećmi, angielski dla firm, matura z angielskiego, angielski w Bytomiu, przygotowanie do egzaminu z angielskiego
+
+facebook_username: MySchoolOfEnglish
+
+url: http://myschoolofenglish.pl
+timezone: Europe/Warsaw
+gems:
+  - jekyll-sitemap

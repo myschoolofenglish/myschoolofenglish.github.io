@@ -1,0 +1,94 @@
+/*
+    Strata by HTML5 UP
+    html5up.net | @n33co
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+    Modified by LionNet, lion.net.pl
+*/
+
+/* List */
+
+ul.actions {
+    margin: 0 0 2em 0;
+}
+
+ul.actions li {
+    display: block;
+    padding: 1em 0 0 0;
+    text-align: center;
+    width: 100%;
+}
+
+ul.actions li:first-child {
+    padding-top: 0;
+}
+
+ul.actions li > * {
+    margin: 0 !important;
+    width: 100%;
+}
+
+ul.actions li > *.icon:before {
+    margin-left: -2em;
+}
+
+ul.actions.small li {
+    padding: 0.5em 0 0 0;
+}
+
+ul.actions.small li:first-child {
+    padding-top: 0;
+}
+
+/* Header */
+
+#header {
+    padding: 4.5em 1.5em;
+}
+
+#header h1 br {
+    display: none;
+}
+
+/* Footer */
+
+#footer .copyright li {
+    border-left-width: 0;
+    display: block;
+    line-height: 2.25em;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+/* LionNet */
+
+#nav-news,
+#nav-offer,
+#nav-partners,
+#nav-workshops,
+#nav-pricing,
+#nav-courses,
+#nav-contact {
+    background-repeat: no-repeat;
+}
+#nav-news {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2580.jpg');
+}
+#nav-offer {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2607.jpg');
+}
+#nav-partners {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2639.jpg');
+}
+#nav-workshops {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2746.jpg');
+}
+#nav-pricing {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2829.jpg');
+}
+#nav-courses {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2880.jpg');
+}
+#nav-contact {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2771.jpg');
+}
