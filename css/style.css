@@ -1274,6 +1274,7 @@ body.is-touch .poptrox-popup .closer {
 #nav-courses,
 #nav-contact {
     background-repeat: no-repeat;
+    background-size: cover;
 }
 #nav-news {
     background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2580.jpg');
@@ -1295,4 +1296,22 @@ body.is-touch .poptrox-popup .closer {
 }
 #nav-contact {
     background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2771.jpg');
+}
+
+nav > section {
+    height: 256px;
+    color: #fff;
+}
+
+nav > section > header > h2 {
+    color: #fff;
+    mix-blend-mode: difference;
+}
+
+nav > section > header {
+    margin: 1em 0;
+}
+
+nav > section > footer {
+    margin: 1em 0;
 }
