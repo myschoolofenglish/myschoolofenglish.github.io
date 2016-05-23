@@ -42,13 +42,13 @@ a {
     -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     border-bottom: dotted 1px;
-    color: #49bf9d;
+    color: inherit;
     text-decoration: none;
 }
 
 a:hover {
     border-bottom-color: transparent;
-    color: #49bf9d !important;
+    color: inherit;
     text-decoration: none;
 }
 
@@ -802,10 +802,10 @@ input[type="button"],
     -o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0.5);
     border-radius: 0.35em;
-    border: solid 3px #efefef;
-    color: #787878 !important;
+    border: solid 3px rgba(207, 20, 43, 0.5);
+    color: rbga(0, 36, 125, 0.5);
     cursor: pointer;
     display: inline-block;
     font-weight: 400;
@@ -823,8 +823,8 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover,
 .button:hover {
-    border-color: #49bf9d;
-    color: #49bf9d !important;
+    border-color: rgba(207, 20, 43, 0.9);
+    color: rbga(0, 36, 125, 0.9) !important;
 }
 
 input[type="submit"]:active,
@@ -1264,3 +1264,35 @@ body.is-touch .poptrox-popup .closer {
     opacity: 1.0 !important;
 }
 
+/* LionNet */
+
+#nav-news,
+#nav-offer,
+#nav-partners,
+#nav-workshops,
+#nav-pricing,
+#nav-courses,
+#nav-contact {
+    background-repeat: no-repeat;
+}
+#nav-news {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2580.jpg');
+}
+#nav-offer {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2607.jpg');
+}
+#nav-partners {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2639.jpg');
+}
+#nav-workshops {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2746.jpg');
+}
+#nav-pricing {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2829.jpg');
+}
+#nav-courses {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2880.jpg');
+}
+#nav-contact {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2771.jpg');
+}

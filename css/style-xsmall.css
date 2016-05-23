@@ -59,36 +59,3 @@ ul.actions.small li:first-child {
     margin-left: 0;
     padding-left: 0;
 }
-
-/* LionNet */
-
-#nav-news,
-#nav-offer,
-#nav-partners,
-#nav-workshops,
-#nav-pricing,
-#nav-courses,
-#nav-contact {
-    background-repeat: no-repeat;
-}
-#nav-news {
-    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2580.jpg');
-}
-#nav-offer {
-    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2607.jpg');
-}
-#nav-partners {
-    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2639.jpg');
-}
-#nav-workshops {
-    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2746.jpg');
-}
-#nav-pricing {
-    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2829.jpg');
-}
-#nav-courses {
-    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2880.jpg');
-}
-#nav-contact {
-    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/nav/small/2771.jpg');
-}
