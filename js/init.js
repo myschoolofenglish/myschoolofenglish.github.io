@@ -216,5 +216,10 @@ Modified by LionNet, lion.net.pl
         }
 
     });
+    
+    $('.has-sub').click( function(e) {
+        e.preventDefault();
+        $(this).parent().toggleClass('tap');
+    });
 
 })(jQuery);
