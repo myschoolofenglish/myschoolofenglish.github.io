@@ -1272,6 +1272,7 @@ ul.egmenu {
     width: 100%;
     font-weight: bolder;
     padding-left: 0;
+    margin-bottom: 0;
 }
 
 ul.egmenu > li {
@@ -1480,4 +1481,8 @@ only screen and (max-device-width : 320px){
     .galleryItem img {width: 96%;}
     .galleryItem h3 {font-size: 18px;}
     .galleryItem p {font-size: 18px;}
+}
+
+#logo {
+    width: 100%;
 }
