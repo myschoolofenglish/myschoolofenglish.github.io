@@ -1486,3 +1486,9 @@ only screen and (max-device-width : 320px){
 #logo {
     width: 100%;
 }
+
+#main {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg-right.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
