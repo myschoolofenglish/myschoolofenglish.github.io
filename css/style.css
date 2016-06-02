@@ -1499,7 +1499,11 @@ only screen and (max-device-width : 360px){
 }
 
 #main {
-    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg-right.png');
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg-right-standard.png');
     background-repeat: no-repeat;
     background-position: bottom;
+}
+
+#main.flowers {
+    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg-right-flowers.png');
 }

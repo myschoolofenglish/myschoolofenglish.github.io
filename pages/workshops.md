@@ -4,6 +4,7 @@ title: "Warsztaty"
 description: ""
 keywords: ""
 permalink: /workshops
+background: flowers
 ---
 
 My school of English proponuje warsztaty literackie, teatralne, kulinarne i 
