@@ -804,10 +804,9 @@ input[type="button"],
     -o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-    background-color: rgba(0, 0, 0, 0.5);
     border-radius: 0.35em;
     border: solid 3px rgba(207, 20, 43, 0.5);
-    color: rbga(0, 36, 125, 0.5);
+    color: #555;
     cursor: pointer;
     display: inline-block;
     font-weight: 400;
@@ -826,16 +825,14 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 .button:hover {
     border-color: rgba(207, 20, 43, 0.9);
-    color: rbga(0, 36, 125, 0.9) !important;
+    font-weight: 900;
 }
 
 input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active,
 .button:active {
-    background-color: rgba(73, 191, 157, 0.1);
-    border-color: #49bf9d;
-    color: #49bf9d !important;
+    background-color: rgba(128, 128, 128, 0.3);
 }
 
 input[type="submit"].icon,
