@@ -1291,13 +1291,14 @@ ul.egmenu a {
     display: block;
     color: white;
     line-height: 30px;
-    padding: 0 10px;
+    padding: 0.75em 0.75em;
     border-bottom: 0;
 }
 
 ul.egmenu li { 
     list-style: none;
     background-color: rgba(0, 0, 0, 0.5);
+    padding-left: 0;
 }
 
 ul.egmenu li:hover { 
@@ -1334,7 +1335,7 @@ ul.egmenu li:hover ul {
 @media all and (max-width: 480px) {
     ul.egmenu {  height: auto; }
     ul.egmenu > li {  float: none; width: 100%; }
-    ul.egmenu a { line-height: 40px; }
+    ul.egmenu a { line-height: 40px; padding: 0 0.75em; }
     ul.egmenu ul { position: relative; }
 
     ul.egmenu li.tap { background: #555;  }
