@@ -1507,3 +1507,7 @@ only screen and (max-device-width : 360px){
 #main.flowers {
     background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg-right-flowers.png');
 }
+
+#header > h1 {
+    visibility: hidden;
+}
