@@ -945,7 +945,6 @@ input[type="button"]:disabled,
     color: rgba(255, 255, 255, 0.5);
     height: 100%;
     left: 0;
-    padding: 8em 4em 0 0;
     position: fixed;
     text-align: right;
     top: 0;
@@ -1272,7 +1271,6 @@ ul.egmenu {
     width: 100%;
     font-weight: bolder;
     padding-left: 0;
-    margin-bottom: 0;
 }
 
 ul.egmenu > li {
@@ -1507,8 +1505,4 @@ only screen and (max-device-width : 360px){
 
 #main.flowers {
     background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg-right-flowers.png');
-}
-
-#header > h1 {
-    visibility: hidden;
 }
