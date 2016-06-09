@@ -15,3 +15,5 @@ podejście i zróżnicowanie oferty przysparzają szkole słuchaczy zarówno wś
 dzieci, jak i rodziców, kolegów, znajomych. To szkoła, o której każdy może 
 śmiało powiedzieć: *"Moja szkoła angielskiego"*, a sama pani Gosia mówi: *"Moja 
 duma, pasja, życie"*.
+
+{% include reviews.html %}
