@@ -941,7 +941,7 @@ input[type="button"]:disabled,
     background-image: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/large/bg.jpg");
     background-position: top left;
     background-repeat: no-repeat;
-    background-size: auto 100%;
+    background-size: auto auto;
     color: rgba(255, 255, 255, 0.5);
     height: 100%;
     left: 0;
@@ -1505,4 +1505,20 @@ only screen and (max-device-width : 360px){
 
 #main.flowers {
     background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg-right-flowers.png');
+}
+
+@media only screen and (max-width : 980px),
+only screen and (max-device-width : 980px) {
+    #header {
+        background-image: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/medium/bg.jpg");
+        background-size: 100% auto;
+    }
+}
+
+@media only screen and (max-width : 360px),
+only screen and (max-device-width : 360px) {
+    #header {
+        background-image: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/small/bg.jpg");
+        background-size: 100% auto;
+    }
 }
