@@ -6,7 +6,7 @@ keywords: ""
 permalink: /contact
 ---
 
-Bytom, ul. Moniuszki 20/111 A i B (I piętro)
+Bytom, ul. Moniuszki 20/111
 
 e-mail: <span class="email">kontakt [at] myschoolofenglish.pl</span>
 
