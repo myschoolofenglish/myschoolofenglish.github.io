@@ -55,7 +55,7 @@ nieodpłatne i nie zobowiązują do zapisania się na kurs.
 
 ### <a href="#for-kids">Zajęcia dla dzieci</a>
 
-"Let's get started" to zajęcia rodzinne, na które przychodzą dzieci 2­3 letnie w towarzystwie mam,
+"Let's get started" to zajęcia rodzinne, na które przychodzą dzieci 2 - 3 letnie w towarzystwie mam,
 tatusiów, babć lub dziadków. Spotykamy się na pół godzinki raz lub 2 razy w tygodniu (do
 ustalenia z rodzicami). Miejscem spotkań jest kolorowy "playroom", wystrojem przypominający
 pokoje naszych małych gości. Śpiewamy, bawimy się, poznajemy pierwsze słówka, rymujemy­ w
@@ -67,7 +67,7 @@ wystrój wnętrza sprawiają, że dzieci czują się jak u siebie.
 
 "Let's play" to zajęcia przeznaczone dla przedszkolaków. 
 Zapraszamy na nie dzieci w wieku od 4 do 6
-lat. Są to spotkania 40­minutowe, przypadające raz lub dwa razy w tygodniu (do ustalenia z
+lat. Są to spotkania 40 - minutowe, przypadające raz lub dwa razy w tygodniu (do ustalenia z
 rodzicami), na których, poprzez zabawę, śpiew, odgrywanie scenek i uczestniczenie w projektach
 plastycznych, dzieci stawiają coraz śmielsze kroki w języku angielskim. Podstawą kursu jest
 odpowiednio dobrany podręcznik, którego sympatyczni bohaterowie towarzyszą nam na każdych
