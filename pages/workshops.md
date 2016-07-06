@@ -7,7 +7,7 @@ permalink: /workshops
 background: flowers
 ---
 
-My school of English proponuje warsztaty literackie, teatralne, kulinarne i 
+My school of English proponuje warsztaty literackie, teatralne, kulinarne, ogrodnicze i 
 plastyczne.
 
 Warsztaty literackie "Let's read" to cykliczne spotkania, mające na celu przybliżenie polskim
@@ -19,3 +19,11 @@ książce. Wybrane pozycje to perełki literatury dziecięcej autorstwa Julii Do
 Roalda Dalha, A.A. Milne i wielu innych poczytnych pisarzy. Warsztaty odbywają się w siedzibie
 szkoły, jak również na zaproszenie w przeróżnych miejscach użyteczności publicznej, takich jak
 biblioteki, szkoły, przedszkola, kawiarnie.
+
+Warsztaty ogrodnicze "Let's get dirty" to autorski projekt My school of English.
+Na zajęciach dzieci poznają tajniki sztuki ogrodowej rodem z Anglii. Jest to 
+kolejny sposób na wykorzystanie języka angielskiego w zaskakującym dla dzieci 
+kontekście. Poprzez kreatywną zabawę, mali ogrodnicy dowiadują się, jak istotnym
+elementem w życiu każdego Brytyjczyka jest jego przydomowy ogródek. Równie ważnym
+aspektem naszego projektu jest bezpośredni kontakt z naturą poprzez dosłowne
+ubrudzenie sobie rączek, co przecież dzieci lubią najbardziej.
