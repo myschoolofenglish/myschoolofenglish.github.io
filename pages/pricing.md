@@ -18,11 +18,11 @@ Płatności w formie uśrednionych rat miesięcznych lub semestralnych.
 
 ### Obozy językowe
 
-Cyklicznie wyjeżdzamy do Chester na obozy językowe.
+Cyklicznie wyjeżdżamy na obozy językowe do Chester.
 
 #### Chester 25.06-02.07.2016
 
 Tygodniowy obóz języka angielskiego w malowniczym Chester. Koszt 475 &pound; + przelot.
 Cena obejmuje kurs języka angielskiego w partnerskiej szkole English in Chester,
-warsztaty tematyczne, zakwaterowanie u rodzin brytyjskich, pełne wyżywienie,
-ubezpieczenie i opiekę rezydenta My school of English. Gorąco polecamy!
+warsztaty tematyczne, wycieczki krajoznawcze, zakwaterowanie u rodzin brytyjskich, 
+pełne wyżywienie, ubezpieczenie i opiekę rezydenta My school of English. Gorąco polecamy!
