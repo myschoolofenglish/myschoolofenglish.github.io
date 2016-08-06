@@ -45,7 +45,7 @@ ul.icons li .icon {
 #footer {
     background-attachment: scroll;
     background-color: #1f1815;
-    background-image: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/overlay.png"), url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg.jpg");
+    background-image: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg.jpg");
     background-position: top left, bottom center;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;

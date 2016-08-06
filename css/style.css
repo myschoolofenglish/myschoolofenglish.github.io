@@ -465,7 +465,6 @@ input[type="radio"] + label:before {
     -o-transition: opacity 0.2s ease-in-out;
     -ms-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
-    background: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/overlay.png");
     border-radius: 0.35em;
     content: '';
     display: block;
@@ -511,7 +510,6 @@ input[type="radio"] + label:before {
 }
 
 .image.thumb:hover:before {
-    background: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/overlay.png"), url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/overlay.png");
     opacity: 1.0;
 }
 
