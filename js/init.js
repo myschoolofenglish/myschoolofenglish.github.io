@@ -222,4 +222,13 @@ Modified by LionNet, lion.net.pl
         $(this).parent().toggleClass('tap');
     });
 
+    $(document).ready(function() {
+        setTimeout(function() {
+            $('#preloader').fadeOut(100, function() {
+                $('body').css('overflow','auto');
+                $(this).remove();
+            });
+        }, 1000);
+    });
+
 })(jQuery);
