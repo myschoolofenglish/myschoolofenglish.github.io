@@ -27,3 +27,13 @@ kontekście. Poprzez kreatywną zabawę, mali ogrodnicy dowiadują się, jak ist
 elementem w życiu każdego Brytyjczyka jest jego przydomowy ogródek. Równie ważnym
 aspektem naszego projektu jest bezpośredni kontakt z naturą poprzez dosłowne
 ubrudzenie sobie rączek, co przecież dzieci lubią najbardziej.
+
+Warsztaty kulinarne "Let's eat" cieszą się największym zainteresowaniem wśród 
+uczniów My school of English zgodnie chyba z zasadą "przez żołądek do serca". 
+Na spotkaniach poznajemy przysmaki kuchni krajów anglosaskich, uczymy się 
+przygotowywania potraw wg konkretnych przepisów, powtarzamy słownictwo związane 
+z jedzeniem. Prawdziwa frajda zaczyna się w momencie, gdy od teorii przechodzimy 
+do praktyki. Nic tak nie utwierdza w przekonaniu, że opłaciło się poświęcić co 
+nieco uwagi, zaangażować w proces twórczy i przezwyciężyć pomniejsze przzeszkody 
+(te brytyjskie jednostki miar potrafią czsami zniechęcić) jak satysfakcja z 
+własnoręcznie przygotowanej potrawy. Efekt finalny- miodzio!
