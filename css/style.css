@@ -934,7 +934,6 @@ input[type="button"]:disabled,
 /* Header */
 
 #header {
-    background-color: #1f1815;
     background-attachment: scroll, fixed;
     background-image: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/large/bg.jpg");
     background-position: top left;
@@ -947,6 +946,7 @@ input[type="button"]:disabled,
     text-align: right;
     top: 0;
     width: 35%;
+    height: 100%;
 }
 
 #header strong, #header b {
