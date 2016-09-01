@@ -9,8 +9,10 @@ permalink: /pricing
 | Liczebność grupy | Czas trwania lekcji [minuty] | Cena od osoby [zł] |
 |:-:|:-:|:-:|
 | 4-6 | 50 | 16 |
-| 3 | 50 | 20 |
-| 2 | 50 | 25 |
+| 3 (dzieci) | 50 | 20 |
+| 3 (dorośli) | 50 | 25 |
+| 2 (dzieci) | 50 | 25 |
+| 2 (dorośli) | 50 | 30 |
 | 1 dorosły | 60 | 50 |
 | 1 dziecko | 60 | 40 |
 
