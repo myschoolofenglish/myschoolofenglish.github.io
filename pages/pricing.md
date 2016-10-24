@@ -14,8 +14,8 @@ permalink: /pricing
 | 2 (dzieci) | 50 | 25 |
 | 2 (dorośli) | 50 | 30 |
 | 1 dorosły | 60 | 50 |
-| 1 dorosły (zajęcia z native speaker'em) | 60 | 60 |
 | 1 dziecko | 60 | 40 |
+| indywidualne zajęcia z native speaker'em | 60 | 60 |
 
 Płatności w formie uśrednionych rat miesięcznych lub semestralnych.
 
