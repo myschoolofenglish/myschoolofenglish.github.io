@@ -24,3 +24,13 @@ za najlepsze przebranie!
 **Zapisy pod numerem 505-099-321**. Liczba miejsc ograniczona - rezerwacja 
 konieczna. **Koszt 20 zł od dziecka** (zniżki dla rodzeństwa). Rezerwacja
 następuje po uiszczeniu opłaty.
+
+<figure>
+    <img src="http://interpc.pl/~mlewinterpc/myschoolofenglish/images/large/trick-or-treat/children-in-costumes.jpg" 
+        alt="Przebrane za wiedźmy, szkieletory i inne potwory dzieci na przyjęciu
+        Halloweenowym">
+    <figcaption>
+        Dzieci w kostiumach halloweenowych w My School of English podczas 
+        ubiegłorocznego Halloween.
+    </figcaption>
+</figure>

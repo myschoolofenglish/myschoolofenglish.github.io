@@ -1547,3 +1547,7 @@ only screen and (max-device-width : 360px) {
     left: 50%;
     display: block;
 }
+
+figure > img {
+    width: 100%;
+}
