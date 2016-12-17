@@ -54,19 +54,6 @@ input[type="radio"] + label:before {
     -ms-behavior: url("css/ie/PIE.htc");
 }
 
-/* Header */
-
-#header {
-    background-image: url("../images/bg.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    -ms-behavior: url("css/ie/backgroundsize.min.htc");
-}
-
-#header h1 {
-    color: #ffffff;
-}
-
 /* Footer */
 
 #footer .icons a {

@@ -24,3 +24,20 @@ for ( i = 0 ; i < emails.length ; i++ ) {
     email = email.replace(" [at] ", "&#64;");
     emails[i].innerHTML = "<a href=\"mailto:" + email + "\">" + email + "</a>";
 }
+
+var slideIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("school-student");
+    for (i = 0; i < x.length; i++) {
+        x[i].className = "school-student carousel-inactive";
+    }
+    slideIndex++;
+    if (slideIndex > x.length) {
+        slideIndex = 1;
+    }
+    x[slideIndex - 1].className = "school-student carousel-active";
+    setTimeout(carousel, 5000);
+}

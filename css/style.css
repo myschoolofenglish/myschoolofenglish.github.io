@@ -934,11 +934,6 @@ input[type="button"]:disabled,
 /* Header */
 
 #header {
-    background-attachment: scroll, fixed;
-    background-image: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/large/bg.jpg");
-    background-position: top left;
-    background-repeat: no-repeat;
-    background-size: auto auto;
     color: rgba(255, 255, 255, 0.5);
     height: 100%;
     left: 0;
@@ -1505,21 +1500,6 @@ only screen and (max-device-width : 360px){
     background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg-right-flowers.png');
 }
 
-@media only screen and (max-width : 980px),
-only screen and (max-device-width : 980px) {
-    #header {
-        background-image: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/medium/bg.jpg");
-        background-size: 100% auto;
-    }
-}
-
-@media only screen and (max-width : 360px),
-only screen and (max-device-width : 360px) {
-    #header {
-        background-image: url("http://interpc.pl/~mlewinterpc/myschoolofenglish/images/small/bg.jpg");
-        background-size: 100% auto;
-    }
-}
 #preloader {
     position: absolute;
     top: 0;
@@ -1549,5 +1529,21 @@ only screen and (max-device-width : 360px) {
 }
 
 figure > img, figure > picture > img {
+    width: 100%;
+}
+
+.school-student {
+    transition: opacity 1s ease-in-out;
+    float: left;
+}
+
+.school-student.carousel-inactive {
+    opacity: 0; 
+    height: 0;
+}
+
+.school-student.carousel-active {
+    opacity: 1;
+    height: auto;
     width: 100%;
 }
