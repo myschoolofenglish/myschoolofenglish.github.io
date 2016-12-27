@@ -3,7 +3,7 @@ layout: page
 ---
 
 {% for post in site.posts %}
-    {% if post.type == 'blog' %}
+    {% if post.type != 'blog' %}
     {% continue %}
     {% else %}
     <section>
@@ -30,7 +30,7 @@ layout: page
     <div class="row">
 
         {% for post in site.posts %}
-            {% if post.type == 'blog' %}
+            {% if post.type != 'blog' %}
             {% continue %}
             {% else %}
                 {% if post.title == major %}
