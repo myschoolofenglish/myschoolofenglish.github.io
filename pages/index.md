@@ -6,7 +6,7 @@ keywords: ""
 permalink: /
 ---
                 
-powstała w 2013 z potrzeby serca Małgorzaty Bachanek, doświadczonej lektorki 
+powstała w roku 2013 z potrzeby serca Małgorzaty Bachanek, doświadczonej lektorki 
 języka angielskiego, miłośniczki i propagatorki kultury brytyjskiej. Misją 
 szkoły jest uczyć poprzez doświadczanie, zabawę i zanurzenie w kontekście 
 kulturowym, w myśl zasady Konfucjusza: *"Powiedz mi, a zapomnę. Pokaż mi, a 
