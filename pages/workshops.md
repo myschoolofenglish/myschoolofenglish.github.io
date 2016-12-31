@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Warsztaty"
-description: ""
+description: "Warsztaty tematyczne w języku angielskim dla dzieci. Kreatywne podejście do nauki języka angielskiego."
 keywords: ""
 permalink: /workshops
 background: flowers
