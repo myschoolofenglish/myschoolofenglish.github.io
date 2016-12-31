@@ -20,3 +20,5 @@ Czy w ogóle można żyć bez jakiejkolwiek inspiracji? Czy można żyć nie odd
 
 Chciałabym na tym blogu podzielić się z Wami swoimi inspiracjami.
 **Serdecznie zapraszam do lektury :)**
+
+*Małgorzata Bachanek*
