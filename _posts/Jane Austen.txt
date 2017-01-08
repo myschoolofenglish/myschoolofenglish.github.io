@@ -4,6 +4,8 @@ description: "Inspiracje literackie"
 keywords: "ispiracje, język angielski, nauczanie języków, literatura, pisarze brytyjscy, wielkie pisarki"
 type: blog
 
+
+08/01/17
 Czy to ładnie? Czy wypada kobiecie, choćby nawet pisarce i to uznanej za życia, wypowiadać takie sądy o nieoczytanych? 
 Czy godzi się być dowcipną, ba, nawet cyniczną, żarty sobie stroić z nieco mniej lotnych? 
 
