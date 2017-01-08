@@ -14,8 +14,7 @@ któremu najmniejszy szczegół, drobiazg żaden nie umknie uwagi. Kimś takim b
 i twórczością wyprzedziła swoje czasy. Nigdy nie wyszła za mąż, choć miała po temu okazje, za to dużo czytała, pisała, 
 co więcej utrzymywała się z pisarstwa, o zgrozo! 
 
-Któż z nas nie oglądał znakomitych adaptacji jej najbardziej poczytnych powieści? Pamiętamy Emmę Thompson i Kate Winslet, które 
-fantastycznie przeistoczyły się w rozważną i romantyczną, czy dumną, a może uprzedzoną Keirę Knightley,albo Gwyneth Paltrow, odtwórczynię swatki Emmy. Osobiście zapałałam miłością wszech czasów do twórczości wielkiej Jane  
+Któż z nas nie oglądał znakomitych adaptacji jej najbardziej poczytnych powieści? Pamiętamy Emmę Thompson i Kate Winslet, które fantastycznie przeistoczyły się w rozważną i romantyczną, czy dumną, a może uprzedzoną Keirę Knightley,albo Gwyneth Paltrow, odtwórczynię swatki Emmy. Osobiście zapałałam miłością wszech czasów do twórczości wielkiej Jane  
 oglądając ekranizację *"Dumy i uprzedzenia"* w  miniserialu BBC z roku 1995. Miałam niebywałe wręcz szczęście uczestniczyć w telewizyjnej premierze tego dzieła, mieszkając podówczas w Anglii i chłonąc wszystko, co angielskie.
 Brawurowa gra aktorska, rewelacyjne kostiumy, ironiczne dialogi, a przede wszystkim ogromne uczucie, dalekie od ckliwości i sentymentalizmu, to wszystko sprawiło, że z niecierpliwością czekałam na kolejny odcinek. 
 Byłam zauroczona, chciałam więcej! 
