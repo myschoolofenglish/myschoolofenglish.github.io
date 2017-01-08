@@ -1,11 +1,11 @@
+---
 layout: page
 title: "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid" Jane Austen
 description: "Inspiracje literackie"
 keywords: "ispiracje, język angielski, nauczanie języków, literatura, pisarze brytyjscy, wielkie pisarki"
 type: blog
+---
 
-
-08/01/2017
 Czy to ładnie? Czy wypada kobiecie, choćby nawet pisarce i to uznanej za życia, wypowiadać takie sądy o nieoczytanych? 
 Czy godzi się być dowcipną, ba, nawet cyniczną, żarty sobie stroić z nieco mniej lotnych? 
 
