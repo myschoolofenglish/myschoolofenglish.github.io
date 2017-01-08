@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid" Jane Austen
+title: "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid Jane Austen"
 description: "Inspiracje literackie"
 keywords: "ispiracje, język angielski, nauczanie języków, literatura, pisarze brytyjscy, wielkie pisarki"
 type: blog
