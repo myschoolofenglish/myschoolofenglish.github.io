@@ -26,7 +26,7 @@ konieczna. **Koszt 20 zł od dziecka** (zniżki dla rodzeństwa). Rezerwacja
 następuje po uiszczeniu opłaty.
 
 <figure>
-    <img src="http://interpc.pl/~mlewinterpc/myschoolofenglish/images/large/trick-or-treat/children-in-costumes.jpg" 
+    <img src="{{ img_hosting }}/images/large/trick-or-treat/children-in-costumes.jpg" 
         alt="Przebrane za wiedźmy, szkieletory i inne potwory dzieci na przyjęciu
         Halloweenowym">
     <figcaption>

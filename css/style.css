@@ -1491,13 +1491,13 @@ only screen and (max-device-width : 360px){
 }
 
 #main {
-    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg-right-standard.png');
+    background-image: url('http://myschool.cluster014.ovh.net/myschoolofenglish.pl/images/bg-right-standard.png');
     background-repeat: no-repeat;
     background-position: bottom;
 }
 
 #main.flowers {
-    background-image: url('http://interpc.pl/~mlewinterpc/myschoolofenglish/images/bg-right-flowers.png');
+    background-image: url('http://myschool.cluster014.ovh.net/myschoolofenglish.pl/images/bg-right-flowers.png');
 }
 
 #preloader {

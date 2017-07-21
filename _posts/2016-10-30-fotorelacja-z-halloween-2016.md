@@ -4,7 +4,6 @@ title: "Fotorelacja z Halloween 2016"
 description: "Fotorelacja z Halloween 2016!"
 keywords: "halloween dla dzieci, angielski dla dzieci, halloween w bytomiu,
 szkoła angielskiego dla dzieci"
-img_hosting: "http://interpc.pl/~mlewinterpc/myschoolofenglish"
 ---
 
 Tegoroczne warsztaty "Halloween" udały się nadzwyczajnie, a to dzięki pomysłom

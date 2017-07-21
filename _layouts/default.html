@@ -1,6 +1,3 @@
----
-img_hosting: "http://interpc.pl/~mlewinterpc/myschoolofenglish"
----
 <!DOCTYPE html>
 <html lang="pl">
     <head>
@@ -25,14 +22,14 @@ img_hosting: "http://interpc.pl/~mlewinterpc/myschoolofenglish"
         
         <div id="preloader">
             <div id="spinner_container">
-                <img id="spinner" src="/images/loading.gif">
+                <img id="spinner" src="{{ site.img_hosting }}/images/loading.gif">
             </div>
         </div>
 
         <header id="header">
             
             <img id="logo" 
-                src="http://interpc.pl/~mlewinterpc/myschoolofenglish/images/logo.png" 
+                src="{{ site.img_hosting }}/images/logo.png" 
                 alt="My school of English logo">
             
             <img src="{{ site.img_hosting }}/images/small/school/student-1.jpg"

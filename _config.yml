@@ -7,7 +7,7 @@ keywords: szkoła języka angielskiego, korepetycje, angielski z dziećmi, angie
 facebook_username: MySchoolOfEnglish
 
 url: http://myschoolofenglish.pl
-img_hosting: "http://interpc.pl/~mlewinterpc/myschoolofenglish"
+img_hosting: "http://myschool.cluster014.ovh.net/myschoolofenglish.pl"
 timezone: Europe/Warsaw
 gems:
   - jekyll-sitemap

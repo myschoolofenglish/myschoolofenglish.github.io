@@ -10,4 +10,4 @@ Można się jeszcze dopisać!
 ![Plakat][1]
 
 
-[1]: http://interpc.pl/~mlewinterpc/myschoolofenglish/images/plakat_chester.jpg
+[1]: {{ img_hosting }}/images/plakat_chester.jpg
